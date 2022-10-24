@@ -1,0 +1,203 @@
+h1 {
+	text-align: center;
+	padding: 50px 20px;
+	font-size: 70px;
+	opacity: 1;
+	text-shadow: 1px 0 6px white, 
+	0 1px 6px white, 
+	-1px 0 6px white, 
+	0 -1px 6px white;
+}
+
+.name {
+	background-image: url("../IMG/img.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	
+}
+
+body {
+	font-family: 'Rubik', sans-serif;
+}
+
+.information {
+	width: 70%;
+	margin: auto;
+	background-color: white;
+}
+
+.href {
+	font-size: 25px;
+	padding: 40px 45px 55px;
+	box-shadow: 0px 0px 0px 1px black;
+}
+
+h3 {
+	font-size: 35px;
+	text-align: center;
+	padding-top: 40px;
+
+}
+.Cube {
+	box-shadow: 0px 0px 1px 1px black;
+}
+
+.cube {
+	font-size: 20px;
+	padding: 0 45px;
+}
+
+.Rubik {
+	box-shadow: 0px 0px 1px 1px black;
+}
+
+.rubik {
+	font-size: 20px;
+	padding: 10px 45px;
+}
+
+img {
+	margin: auto;
+	padding: 0 160px;
+	padding-left: 300px;
+}
+
+.Variations {
+	box-shadow: 0px 0px 1px 1px black;
+}
+
+.variations {
+	font-size: 20px;
+	padding-left: 45px;
+}
+
+.Pictures {
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	border: 1px solid black;
+	margin-left: 500px;
+	margin-right: 500px;
+	border-radius: 20px;
+}
+
+.Pictures:hover {
+	transform: scale(1.05);
+	transition: 0.5s;
+	box-shadow: 0px 0px 1px 1px black;
+	background-color: whitesmoke;
+}
+
+.Pictures:active {
+	background-color: black;
+}
+ 
+.pictures {
+	align-content: center;
+}
+.pr {
+	weight: 120px;
+	height: 150px;
+}
+
+.pr1 {
+	weight: 120px;
+	height: 150px;
+}
+
+.pr2 {
+	weight: 120px;
+	height: 150px;
+}
+
+.pr4 {
+	weight: 120px;
+	height: 150px;
+}
+
+.pr5 {
+	weight: 120px;
+	height: 150px;
+}
+
+
+.pr:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.pr1:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.pr2:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.pr3:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.pr4:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.pr5:hover {
+	transform: scale(1.2);
+	transition: 0.5s;
+	
+}
+
+.Score {
+	box-shadow: 0px 0px 1px 1px black;
+}
+
+.score {
+	font-size: 20px;
+	padding: 0 45px;
+	padding-bottom: 20px;
+}
+
+.score1 {
+	font-size: 20px;
+	padding: 0 45px;
+	padding-bottom: 20px;
+}
+
+iframe {
+	padding-left: 350px;
+	padding-bottom: 30px;
+}
+
+.Internet {
+	box-shadow: 0px 0px 1px 1px black;
+	font-size: 20px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+}
+
+.end {
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+}
+
+.Begin {
+	padding-left: 50px;
+	text-
+}
+
+
+	
+
